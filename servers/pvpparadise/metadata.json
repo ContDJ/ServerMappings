@@ -12,9 +12,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#15e802",
     "secondaryColor": "#55f7b9",
     "primaryLanguage": "en",
